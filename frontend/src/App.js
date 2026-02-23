@@ -8,7 +8,7 @@ const App = () => {
   return (
     <Router>
       <div className="navbar">
-        <h2>🏠 Grocery Tracker</h2>
+        <h2>🏠 Grocery Tracker for Household</h2>
         <nav>
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
